@@ -1,0 +1,11 @@
+
+Die Magentoerweiterung "Piwik" bindet den bekannten Piwik Tracker in Magento ein.
+
+ACHTUNG!
+
+Im Moment verfügt die Erweiterung noch über einige Einschränkungen:
+
+* Das Tracking erfolgt ausschliesslich serverseitig durch PHP Code, die Erweiterung ist also nicht mit Reverse Proxy Caching oder Full Page Caching kompatibel.
+
+(c) 2012 Linum Software GmbH
+http://www.linum.com
